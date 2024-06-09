@@ -11,13 +11,9 @@ different images in parts of ui (early wip)
 ![Call of Duty Modern Warfare 2 (2009) - Multiplayer_2024 06 09-06 17_1](https://github.com/nurla9000/nurla_pack/assets/140421367/165c6bd3-beee-4bef-8fea-36ff24d8db28)
 ![Call of Duty Modern Warfare 2 (2009) - Multiplayer_2024 06 09-06 18](https://github.com/nurla9000/nurla_pack/assets/140421367/73de8cba-f819-44e5-bd43-111e37b439b8)
 
-
-
-
 # SMALL DETAILS
-not much besides some binds which is in the zip in the text file (simplebinds.txt)
 ![image](https://github.com/nurla9000/nurla_pack/assets/140421367/3258ed5a-e916-4d03-bb88-bba3bb149441)
-
+not much besides some binds which is in the zip in the text file (simplebinds.txt)
 
 # CONTACT
 
