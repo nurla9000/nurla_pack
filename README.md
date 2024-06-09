@@ -1,5 +1,7 @@
 
-![3dgifmaker57260](https://github.com/nurla9000/nurla_pack/assets/140421367/c519fca8-5784-4f71-a92f-dab55426be58)
+![logo_iw](https://github.com/nurla9000/nurla_pack/assets/140421367/dce3dcb8-bcd4-419e-b8b7-d535527de0bb)
+
+
 
 # INFO
 simple pack mod for iw4x
